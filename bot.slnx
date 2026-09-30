@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bot.vcxproj" Id="c2d3e4f5-a6b7-8901-cdef-012345678902" />
+</Solution>
